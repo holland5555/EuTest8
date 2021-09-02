@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">JavaScript can change HTML content.</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+
+</body>
+</html>
+
+
+github_client-id : 'B1284c70z49965b03cdb'
+aWs_account: "3258-1591-6218"
+password=“k3ewoe8883!!”
+github_client-id : 'c3004c71c45965v03cdb'
+aWs_account: "3998-1594-5278"
+
+
+
